@@ -1,0 +1,28 @@
+.footer-body{
+   
+    
+    left: 0;
+    font-size: 1em;
+    bottom: 0;
+    height: 30vh;
+    width: 100%;
+   
+    align-items: center;
+    justify-content: space-around;
+    display: grid;
+    grid-template-columns: auto auto ;
+}
+
+.grid-item{
+    cursor: pointer;
+}
+
+.grid-item:hover{
+    color:#4188ff;
+    border-bottom: #4188ff;
+}
+.footer{
+    margin-top: 1em;
+    background-color: #181830;
+    color: #FFFFFF;
+}
