@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/dosy/static/css/main.a513a8a1.css",
-    "main.js": "/dosy/static/js/main.822d2bdd.js",
+    "main.css": "/dosy/static/css/main.627af1b2.css",
+    "main.js": "/dosy/static/js/main.35bf62d9.js",
     "static/js/787.c6dd2dc9.chunk.js": "/dosy/static/js/787.c6dd2dc9.chunk.js",
     "static/media/logo.svg": "/dosy/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/dosy/index.html",
-    "main.a513a8a1.css.map": "/dosy/static/css/main.a513a8a1.css.map",
-    "main.822d2bdd.js.map": "/dosy/static/js/main.822d2bdd.js.map",
+    "main.627af1b2.css.map": "/dosy/static/css/main.627af1b2.css.map",
+    "main.35bf62d9.js.map": "/dosy/static/js/main.35bf62d9.js.map",
     "787.c6dd2dc9.chunk.js.map": "/dosy/static/js/787.c6dd2dc9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a513a8a1.css",
-    "static/js/main.822d2bdd.js"
+    "static/css/main.627af1b2.css",
+    "static/js/main.35bf62d9.js"
   ]
 }
